@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickSettngsMod</string>
+    <string name="app_description">Test</string>
+    <string name="label_settings">QuickSettngsMod</string>
+    
+    <string name="label_qm">Test</string>
+    <string name="sum_qm">Tets</string>
+    
+    <string name="label_rebootaf">Note</string>
+    <string name="nosum">You may need to reboot for changes to take effect.</string>
+    <string name="mesum">"@WedyDQ10"</string>
+</resources>

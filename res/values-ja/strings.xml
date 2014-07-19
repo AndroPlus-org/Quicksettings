@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickSettngsMod</string>
+    <string name="app_description">Test</string>
+    <string name="label_settings">QuickSettngsMod</string>
+    
+    <string name="label_qm">Test</string>
+    <string name="sum_qm">Test</string>
+    
+    <string name="label_rebootaf">注意</string>
+    <string name="nosum">変更は再起動後に反映されます。\n一部機種によって動作しないことがあります。</string>
+    <string name="mesum">"@WedyDQ10"</string>
+</resources>
